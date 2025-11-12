@@ -25,3 +25,10 @@ git commit -m 'primeiro commit'
 ~~~ bash
 git config user.name 'Nome_do_usuario' 
 git config user.email 'Email_do_usuario' 
+~~~
+
+## 5. Alterar o nome da Branch (linha do tempo de master para main)
+
+~~~ bash 
+git branch -M main 
+~~~
