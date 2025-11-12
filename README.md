@@ -19,3 +19,9 @@ git add Readme.md
 ~~~ bash
 git commit -m 'primeiro commit'
 ~~~
+
+## 4. Configurar as credenciais do Git
+
+~~~ bash
+git config user.name 'Nome_do_usuario' 
+git config user.email 'Email_do_usuario' 
